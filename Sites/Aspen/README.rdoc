@@ -2,6 +2,11 @@
 
 Pryecto desarrolado en ruby on rails para el manejo y gestion de procesos judiciales
 
+
+== Desarrolladores 
+Alexander Herrera
+Sebastián Castiblanco
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
